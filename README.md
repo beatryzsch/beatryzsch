@@ -1,6 +1,6 @@
 
 
-## Olá prazer, eu sou a Amanda Beatryz👋
+## 🌸Olá prazer, eu sou a Amanda Beatryz🌸
 
 <!--
 **beatryzsch/beatryzsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
