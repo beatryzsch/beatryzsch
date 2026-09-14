@@ -38,8 +38,7 @@ Estou usando este perfil para guardar meus exercícios da faculdade, pequenos te
 
 Se quiser trocar uma ideia sobre como é começar na área de TI ou acompanhar meus estudos, me encontra aqui: 
 
-* * 💼 **LinkedIn:** [Conecte-se comigo no LinkedIn ✨](https://www.linkedin.com/in/amanda-schier-188625305/)
-
+* 🌸 **LinkedIn:** [Conecte-se comigo no LinkedIn ✨](https://www.linkedin.com/in/amanda-schier-188625305/)
 * ✉️ **E-mail:** amanda.schier@hotmail.com 🌸
 
  
