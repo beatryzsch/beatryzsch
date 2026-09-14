@@ -49,6 +49,6 @@ Se quiser trocar uma ideia sobre como é começar na área de TI ou acompanhar m
   </a>
 </p>
 
-<p align="center">Criado com 🎀 por Beatryz! </p>
+<p align="center">Criado por Beatryz! 🎀 </p>
   
   ##
