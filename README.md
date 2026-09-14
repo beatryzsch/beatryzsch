@@ -11,8 +11,7 @@
 
 ### 🌸 Sobre Mim
 
-Seja muito bem-vinda(o) ao meu cantinho! Sou estudante de **Ciência da Computação** 🎓 e estou no 3º período da faculdade.
-🧸 Como estou no início da minha jornada na tecnologia, meu foco atual é construir uma base sólida e aprender algo novo todos os dias. Adoro transformar café em linhas de código! ☕✨
+Seja muito bem-vinda(o) ao meu cantinho! Sou estudante de **Ciência da Computação** 🎓 e estou no 3º período da faculdade. Como estou no início da minha jornada na tecnologia, meu foco atual é construir uma base sólida e aprender algo novo todos os dias. Adoro transformar café em linhas de código! ☕✨
 
 * 🚀 Em busca de aprendizado constante e, no futuro, da minha primeira oportunidade de **estágio**!
 * 🧠 Atualmente focada em aprender **Lógica de Programação**, **Estruturas de Dados** e os conceitos fundamentais da computação.
@@ -20,7 +19,7 @@ Seja muito bem-vinda(o) ao meu cantinho! Sou estudante de **Ciência da Computa�
 
 ---
 
-###  O que estou estudando e explorando:
+### 🧸 O que estou estudando e explorando:
 
 Aqui estão as tecnologias e ferramentas com as quais estou tendo meus primeiros contatos na faculdade e em cursos por fora:
 
