@@ -49,6 +49,8 @@ Se quiser trocar uma ideia sobre como é começar na área de TI ou acompanhar m
   </a>
 </p>
 
+![image alt](https://github.com/beatryzsch/beatryzsch/blob/67a3f0ffcac864bb3d2747e3589328e90a679a1a/pink-heart.gif)
+
 <p align="center">Criado por Beatryz! 🎀 </p>
   
   ##
