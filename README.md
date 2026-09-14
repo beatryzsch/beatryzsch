@@ -4,8 +4,7 @@
 ![image alt](https://github.com/beatryzsch/beatryzsch/blob/main/82074-kittypaw.png?raw=true)
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  
 </p>
 
 ---
