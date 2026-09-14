@@ -49,7 +49,8 @@ Se quiser trocar uma ideia sobre como é começar na área de TI ou acompanhar m
   </a>
 </p>
 
-![image alt](https://github.com/beatryzsch/beatryzsch/blob/9381db02239fc7d8785b5bc8e62b0aa233815378/amethyst-hayami-amethyst.webp)
+![image alt](https://github.com/beatryzsch/beatryzsch/blob/9381db02239fc7d8785b5bc8e62b0aa233815378/amethyst-hayami-amethyst.webp) 
+![image alt](https://github.com/beatryzsch/beatryzsch/blob/0f69a5e578207c769ca10861e9914121a77bb1b6/giphy%20(2).gif)
 
 <p align="center">Criado por Beatryz! 🎀 </p>
   
