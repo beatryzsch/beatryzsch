@@ -1,5 +1,5 @@
 
-
+![image alt] (https://github.com/beatryzsch/beatryzsch/blob/main/82074-kittypaw.png?raw=true)
 ## 🌸Olá prazer, eu sou a Amanda Beatryz🌸
 
 <!--
