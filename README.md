@@ -3,10 +3,6 @@
 ## 🌸Olá prazer, eu sou a Amanda Beatryz🌸
 ![image alt](https://github.com/beatryzsch/beatryzsch/blob/main/82074-kittypaw.png?raw=true)
 
-<!--
-**beatryzsch/beatryzsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Olá, mundo! Eu sou a Beatryz ✨👋
-
 <p align="center">
   <img src="https://shields.io" />
   <img src="https://shields.io" />
