@@ -39,8 +39,7 @@ Estou usando este perfil para guardar meus exercícios da faculdade, pequenos te
 Se quiser trocar uma ideia sobre como é começar na área de TI ou acompanhar meus estudos, me encontra aqui:
 
 <p align="left">
-  <a href="https://(https://www.linkedin.com/in/amanda-schier-188625305/)" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" (https://www.linkedin.com/in/amanda-schier-188625305/) />
+  <a href="https://https://www.linkedin.com/in/amanda-schier-188625305/" target="_blank">
   </a>
   <a href="mailto:amanda.schier@hotmail.com">
     <img src="https://shields.io" alt="Email" />
