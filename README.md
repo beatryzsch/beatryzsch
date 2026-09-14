@@ -1,7 +1,12 @@
 
 
 ## 🌸Olá prazer, eu sou a Amanda Beatryz🌸
-![image alt](https://github.com/beatryzsch/beatryzsch/blob/main/82074-kittypaw.png?raw=true)
+![image alt](https://github.com/beatryzsch/beatryzsch/blob/main/82074-kittypaw.png?raw=true) 
+
+<p align="center">
+  <img src="https://giphy.com" width="300px"/>
+</p>
+
 
 <p align="center">
   
