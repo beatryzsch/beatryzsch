@@ -37,10 +37,15 @@ Estou usando este perfil para guardar meus exercícios da faculdade, pequenos te
 ### 💌 Vamos nos conectar?
 
 Se quiser trocar uma ideia sobre como é começar na área de TI ou acompanhar meus estudos, me encontra aqui:
-  <a href="https://[linkedin.com](https://www.linkedin.com/in/amanda-schier-188625305/)" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/amanda-schier-188625305/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amanda.schier@hotmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
  
 <div> 
   <a href="https://instagram.com/beatryzsch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
