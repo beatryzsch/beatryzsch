@@ -19,7 +19,7 @@ Seja muito bem-vinda(o) ao meu cantinho! Sou estudante de **Ciência da Computa�
 
 ---
 
-### 🧸 O que estou estudando e explorando:
+### 🔮 O que estou estudando e explorando:
 
 Aqui estão as tecnologias e ferramentas com as quais estou tendo meus primeiros contatos na faculdade e em cursos por fora:
 
